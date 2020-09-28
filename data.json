@@ -1,0 +1,20 @@
+{
+  "info": {
+    "lives": {
+      "address": 1846,
+      "type": "|i1"
+    },
+    "score": {
+      "address": 1813,
+      "type": ">u3"
+    },
+    "time": {
+      "address": 1800,
+      "type": ">u4"
+    },
+    "xpos": {
+      "address": 141,
+      "type": ">u4"
+    }
+  }
+}
